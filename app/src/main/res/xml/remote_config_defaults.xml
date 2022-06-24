@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>default_url</key>
+    <value>Empty</value>
+  </entry>
+  <entry>
+    <key>one_signal</key>
+    <value>Empty</value>
+  </entry>
+</defaults>

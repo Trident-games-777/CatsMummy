@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48795647439",
+    "project_id": "catsmummy-9760b",
+    "storage_bucket": "catsmummy-9760b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48795647439:android:ebc160e8dca33c9f2ca6ba",
+        "android_client_info": {
+          "package_name": "com.frojo.moy4.androi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48795647439-b9j4l5stn3o5cak2lmovkrb8015j28ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwTmXH8zwfY16XkWlAWOYHzxnGRV7-M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48795647439-b9j4l5stn3o5cak2lmovkrb8015j28ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

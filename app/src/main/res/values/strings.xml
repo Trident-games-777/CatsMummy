@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CatsMummy</string>
+    <string name="fb_id">340812684893418</string>
+    <string name="fb_token">2ce866c4b53bf29e042292e19bb6ebd5</string>
+
+    <string name="secure_get_parametr">Pp34Z8wWfp</string>
+    <string name="secure_key">JcKzwVYtZk</string>
+    <string name="dev_tmz_key">m0H1awt654</string>
+    <string name="gadid_key">IuB6JVvdGK</string>
+    <string name="deeplink_key">syzzq5wFiJ</string>
+    <string name="source_key">hMFHuxBfrM</string>
+    <string name="af_id_key">8QPdHSJggK</string>
+    <string name="adset_id_key">orqzeobf4I</string>
+    <string name="campaign_id_key">yaZmM3G9ih</string>
+    <string name="app_campaign_key">b40ZJFQZRU</string>
+    <string name="adset_key">U0flaVNUBS</string>
+    <string name="adgroup_key">Rz8v2bNV3G</string>
+    <string name="orig_cost_key">jYNT1CdN0d</string>
+    <string name="af_siteid_key">VhFck6mcOM</string>
+    <string name="cats_mummy">Cats Mummy</string>
+    <string name="catch_the">Catch the</string>
+    <string name="start">Start</string>
+    <string name="start_again">Start again</string>
+
+    <array name="dirs_array">
+        <item>/sbin/</item>
+        <item>/system/bin/</item>
+        <item>/system/xbin/</item>
+        <item>/data/local/xbin/</item>
+        <item>/data/local/bin/</item>
+        <item>/system/sd/xbin/</item>
+        <item>/system/bin/failsafe/</item>
+        <item>/data/local/</item>
+    </array>
+</resources>
